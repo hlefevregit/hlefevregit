@@ -20,15 +20,19 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hlefevregit&theme=react&hide_border=true" style="width: 51%;">
 </div>
 
-## 🔭 Projects
-- **[Libft](https://github.com/hlefevregit/libft_gnl):** A library of useful functions for later projects.
-- **[Printf](https://github.com/hlefevregit/ft_printf):** A simple mimic of the printf function.
-- **[GNL](https://github.com/hlefevregit/libft_gnl):** Function that reads a new line from a file at every call.
-- **[Push Swap](https://github.com/hlefevregit/push_swap):** A simple sorting algorithm.
-- **[Pipex](https://github.com/hlefevregit/pipiex):** A simple programm to understand how pipes and redirections work.
-- **[So Long](https://github.com/hlefevregit/so_long):** A very small 2D game.
-- **[Philosophers](https://github.com/hlefevregit/philo):** An initiation to threads and mutex.
-- **[Minishell](https://github.com/hlefevregit/minishell):** Recreate a simple shell.
-- **[CPP_Modules](https://github.com/hlefevregit/CPP_Modules):** A project regrouping multiple exercices to learn CPP. 
+## 🔭 42 Projects
+- **[Libft](https://github.com/hlefevregit/libft_gnl):** A library of useful functions for later projects. [125%]
+- **[Printf](https://github.com/hlefevregit/ft_printf):** A simple mimic of the printf function. [100%]
+- **[GNL](https://github.com/hlefevregit/libft_gnl):** Function that reads a new line from a file at every call. [125%]
+- **[Push Swap](https://github.com/hlefevregit/push_swap):** A simple sorting algorithm. [90%]
+- **[Pipex](https://github.com/hlefevregit/pipiex):** A simple programm to understand how pipes and redirections work. [125%]
+- **[So Long](https://github.com/hlefevregit/so_long):** A very small 2D game. [118%]
+- **[Philosophers](https://github.com/hlefevregit/philo):** An initiation to threads and mutex. [100%]
+- **[Minishell](https://github.com/hlefevregit/minishell):** Recreate a simple shell. [In Progress]
+- **[CPP_Modules](https://github.com/hlefevregit/CPP_Modules):** A project regrouping multiple exercices to learn CPP. [In Progress]
+
+## Personnal projects
+- **[Piscine Discovery - Web](https://github.com/hlefevregit/piscine_discovery/tree/main/web):** A complete correction of the discovery_piscine of 42 school for children.
+- **[Piscine Discovery - Python](https://github.com/hlefevregit/piscine_discovery/tree/main/python):** A part-complete correction of the discovery_piscine of 42 school for children.
 
 [![](https://visitcount.itsvg.in/api?id=hlefevregit&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
