@@ -20,6 +20,8 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hlefevregit&theme=react&hide_border=true" style="width: 51%;">
 </div>
 
+<img src="https://github-profile-trophy.vercel.app/?username=hlefevregit&theme=darkhub&margin-w=15&margin-h=15" alt="html logo"/>
+
 ## 🔭 42 Projects
 - **[Libft](https://github.com/hlefevregit/libft_gnl):** A library of useful functions for later projects. [125%]
 - **[Printf](https://github.com/hlefevregit/ft_printf):** A simple mimic of the printf function. [100%]
