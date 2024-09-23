@@ -27,7 +27,7 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[Printf](https://github.com/hlefevregit/ft_printf):** A simple mimic of the printf function. [100%]
 - **[GNL](https://github.com/hlefevregit/libft_gnl):** Function that reads a new line from a file at every call. [125%]
 - **[Push Swap](https://github.com/hlefevregit/push_swap):** A simple sorting algorithm. [90%]
-- **[Pipex](https://github.com/hlefevregit/pipiex):** A simple programm to understand how pipes and redirections work. [125%]
+- **[Pipex](https://github.com/hlefevregit/pipex):** A simple programm to understand how pipes and redirections work. [125%]
 - **[So Long](https://github.com/hlefevregit/so_long):** A very small 2D game. [118%]
 - **[Philosophers](https://github.com/hlefevregit/philo):** An initiation to threads and mutex. [100%]
 - **[Minishell](https://github.com/hlefevregit/minishell):** Recreate a simple shell. [In Progress]
