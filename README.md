@@ -36,7 +36,7 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 ## Personnal projects
 - **[Piscine Discovery - Web](https://github.com/hlefevregit/piscine_discovery/tree/main/web):** A complete correction of the discovery_piscine of 42 school for children.
 - **[Piscine Discovery - Python](https://github.com/hlefevregit/piscine_discovery/tree/main/python):** A part-complete correction of the discovery_piscine of 42 school for children.
-- **[Piscine Discovery - Cyber](https://github.com/hlefevregit/piscine_discovery/tree/main/cybersec):** A complete correction of the discovery_piscine of 42 school for newbies, made by 42Barcelona
+- **[Piscine Discovery - Cyber](https://github.com/hlefevregit/piscine_discovery/tree/main/cybersec_discovery):** A complete correction of the discovery_piscine of 42 school for newbies, made by 42Barcelona
 - **[Piscine Discovery - Init](https://github.com/hlefevregit/piscine_discovery/tree/main/init):** A part-complete correction of the discovery_piscine of 42 school for newbies with sys/network. Made by slash16 (no longer available)
 
 [![](https://visitcount.itsvg.in/api?id=hlefevregit&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
