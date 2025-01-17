@@ -41,3 +41,11 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[Piscine Discovery - Init](https://github.com/hlefevregit/piscine_discovery/tree/main/init):** A part-complete correction of the discovery_piscine of 42 school for newbies with sys/network. Made by slash16 (no longer available)
 
 [![](https://visitcount.itsvg.in/api?id=hlefevregit&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+
+# Curently listening to
+<a href="https://hougoooo.pythonanywhere.com/link">
+  <img
+    src="https://hougoooo.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
