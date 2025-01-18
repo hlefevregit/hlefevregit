@@ -17,7 +17,7 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 ## 📈 Github Stats
 <div style="display: flex; justify-content: space-between;">
 	<img src="https://github-readme-stats.vercel.app/api?username=hlefevregit&theme=react&show_icons=true&hide_border=true&count_private=true" style="width: 48%;">
-	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hlefevregit&theme=react&hide_border=true" style="width: 51%;">
+<!-- 	<img src="https://github-readme-streak-stats.herokuapp.com/?user=hlefevregit&theme=react&hide_border=true" style="width: 51%;"> -->
 </div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=hlefevregit&theme=darkhub&margin-w=15&margin-h=15" alt="html logo"/>
