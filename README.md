@@ -30,9 +30,9 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[Pipex](https://github.com/hlefevregit/pipex):** A simple programm to understand how pipes and redirections work. [125%]
 - **[So Long](https://github.com/hlefevregit/so_long):** A very small 2D game. [118%]
 - **[Philosophers](https://github.com/hlefevregit/philo):** An initiation to threads and mutex. [100%]
-- **[Minishell](https://github.com/hlefevregit/minishell):** Recreate a simple shell. [In Progress]
+- **[Minishell](https://github.com/hlefevregit/minishell):** Recreate a simple shell. [100%]
 - **[CPP_Modules](https://github.com/hlefevregit/CPP_Modules):** A project regrouping multiple exercices to learn CPP. [Ready To Be Corrected]
-- **[NetPractice](https://github.com/hlefevregit/NetPractice):** NetPractice aim to discover network for concrete cases. [Ready To Be Corrected]
+- **[NetPractice](https://github.com/hlefevregit/NetPractice):** NetPractice aim to discover network for concrete cases. [100%]
 
 ## Personnal projects
 - **[Piscine Discovery - Web](https://github.com/hlefevregit/piscine_discovery/tree/main/web):** A complete correction of the discovery_piscine of 42 school for children.
