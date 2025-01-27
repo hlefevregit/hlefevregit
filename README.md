@@ -33,6 +33,7 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[Minishell](https://github.com/hlefevregit/minishell):** Recreate a simple shell. Made with [David](https://github.com/kintox01) [100%]
 - **[CPP_Modules](https://github.com/hlefevregit/CPP_Modules):** A project regrouping multiple exercices to learn CPP. [Ready To Be Corrected]
 - **[NetPractice](https://github.com/hlefevregit/NetPractice):** NetPractice aim to discover network for concrete cases. [100%]
+- **[ft_irc](https://github.com/hlefevregit/ft_irc):** Recreate a simple IRC (Internet Relay Chat) server in C++. [On-going]
 
 ## Personnal projects
 - **[Piscine Discovery - Web](https://github.com/hlefevregit/piscine_discovery/tree/main/web):** A complete correction of the discovery_piscine of 42 school for children.
