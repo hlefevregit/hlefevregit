@@ -31,7 +31,7 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[So Long](https://github.com/hlefevregit/so_long):** A very small 2D game. [118%]
 - **[Philosophers](https://github.com/hlefevregit/philo):** An initiation to threads and mutex. [100%]
 - **[Minishell](https://github.com/hlefevregit/minishell):** Recreate a simple shell. Made with [David](https://github.com/kintox01) [100%]
-- **[CPP_Modules](https://github.com/hlefevregit/CPP_Modules):** A project regrouping multiple exercices to learn CPP. [Ready To Be Corrected]
+- **[CPP_Modules](https://github.com/hlefevregit/CPP_Modules):** A project regrouping multiple exercices to learn CPP. [100%]
 - **[NetPractice](https://github.com/hlefevregit/NetPractice):** NetPractice aim to discover network for concrete cases. [100%]
 - **[cub3d](https://github.com/hlefevregit/cub3d):** An inspired FPS done with raycasting to simulate a 3d environment. Made with [David](https://github.com/kintox01) [125%]
 - **[ft_irc](https://github.com/hlefevregit/ft_irc):** Recreate a simple IRC (Internet Relay Chat) server in C++. [On-going]
