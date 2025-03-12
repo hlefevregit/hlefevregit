@@ -35,6 +35,7 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[NetPractice](https://github.com/hlefevregit/NetPractice):** NetPractice aim to discover network for concrete cases. [100%]
 - **[cub3d](https://github.com/hlefevregit/cub3d):** An inspired FPS done with raycasting to simulate a 3d environment. Made with [David](https://github.com/kintox01) [125%]
 - **[ft_irc](https://github.com/hlefevregit/ft_irc):** Recreate a simple IRC (Internet Relay Chat) server in C++. [On-going]
+- **[Inception](https://github.com/hlefevregit/Inception):** A project to learn about Dockerfile and docker-compose. Where we set up a container with nginx, mariadb, wordpress, and bonuses. [On-going]
 
 ## Personnal projects
 - **[Piscine Discovery - Web](https://github.com/hlefevregit/piscine_discovery/tree/main/web):** A complete correction of the discovery_piscine of 42 school for children.
