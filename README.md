@@ -6,8 +6,8 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 
 ## 🛠️ Languages & Tools
 <div align="left">
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/c.svg" alt="c logo" width="50" height="50"/>
-	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/languages/cpp.svg" alt="cpp logo" width="50" height="50"/>
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/c.svg" alt="c logo" width="50" height="50"/>
+	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cpp.svg" alt="cpp logo" width="50" height="50"/>
   	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/html-5-logo-svgrepo-com.svg" alt="html logo" width="50" height="50"/>
   	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/css.svg" alt="html logo" width="50" height="50"/>
 </div>
