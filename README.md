@@ -47,7 +47,7 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 [![](https://visitcount.itsvg.in/api?id=hlefevregit&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 ### Curently listening to
-<a href="https://hougoooo.pythonanywhere.com/link">
+<a href="https://hougoooo.pythonanywhere.com/link?spin=true&scan=true&eq_color=rainbow&theme=dark">
   <img
     src="https://hougoooo.pythonanywhere.com"
     alt="Current Spotify Song"
