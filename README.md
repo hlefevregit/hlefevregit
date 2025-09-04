@@ -22,7 +22,7 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 
 <img src="https://github-profile-trophy.vercel.app/?username=hlefevregit&theme=darkhub&margin-w=15&margin-h=15" alt="html logo"/>
 
-## 🔭 42 Projects
+## 🔭 42 Common-Core
 - **[Libft](https://github.com/hlefevregit/libft_gnl):** A library of useful functions for later projects. [125%]
 - **[Printf](https://github.com/hlefevregit/ft_printf):** A simple mimic of the printf function. [100%]
 - **[GNL](https://github.com/hlefevregit/libft_gnl):** Function that reads a new line from a file at every call. [125%]
@@ -37,6 +37,13 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[ft_irc](https://github.com/hlefevregit/ft_irc):** Recreate a simple IRC (Internet Relay Chat) server in C++. Made with [Louis](https://github.com/MazeWave) [125%]
 - **[Inception](https://github.com/hlefevregit/Inception):** A project to learn about Dockerfile and docker-compose. Where we set up a container with nginx, mariadb, wordpress, and bonuses. [125%]
 - **[Ft_transcendence](https://github.com/hlefevregit/ft_transcendence):** Final project of the Common Core. This projects aims to create a website from scratch, to play tha famouse pong game online. Many features are add in this project, if you want to learn more about this project, please read the [ReadMe] of the repo. Made with [Louis](https://github.com/MazeWave), [Léo](https://github.com/LeoPolizzi) and [Evan](https://github.com/Thhundder) [125%]
+
+## 🔭 42 POST Common-Core
+- **[Libasm](https://github.com/hlefevregit/libasm):** A small librairy to learn how assembly works. [125%]
+- **[Ft_malcolm](https://github.com/hlefevregit/ft_malcolm):** A simplified Man-In-The-Middle code to spoof arp tables. [100%]
+- **[Inception Of Things](https://github.com/hlefevregit/IoT):** A project to learn about Kubernetes (k8s, k3s and k3s), CI-CD with argo-CD on Github and Gitlab  [125%]
+- **[Ft_ping](https://github.com/hlefevregit/ft_ping):** Reproduce the ping function with some flags. [125%]
+- **[Ft_ssl_md5](https://github.com/hlefevregit/ft_ssl_md5):** An algo to reporduce the hashes from md5 and sha256 (it will have more encryption algos in the same repo in coming). [100%]
 
 ## Personnal projects
 - **[Piscine Discovery - Web](https://github.com/hlefevregit/piscine_discovery/tree/main/web):** A complete correction of the discovery_piscine of 42 school for children.
