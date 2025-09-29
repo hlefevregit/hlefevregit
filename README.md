@@ -44,6 +44,8 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[Inception Of Things](https://github.com/hlefevregit/IoT):** A project to learn about Kubernetes (k8s, k3s and k3s), CI-CD with argo-CD on Github and Gitlab  [125%]
 - **[Ft_ping](https://github.com/hlefevregit/ft_ping):** Reproduce the ping function with some flags. [125%]
 - **[Ft_ssl_md5](https://github.com/hlefevregit/ft_ssl_md5):** An algo to reporduce the hashes from md5 and sha256 (it will have more encryption algos in the same repo in coming). [100%]
+- **[Ft_ssl_des](https://github.com/hlefevregit/ft_ssl_md5):** An algo to reporduce enconding of base64 + encrytption with ECB and CBC (it will still have more encryption algos in the same repo in coming). [100%]
+- **[Cloud-1](https://github.com/hlefevregit/cloud-1):** Remake the project [Inception](https://github.com/hlefevregit/Inception), but on a VPS. Made with [Héliam](https://github.com/fZpHr) [100%]
 
 ## Personnal projects
 - **[Piscine Discovery - Web](https://github.com/hlefevregit/piscine_discovery/tree/main/web):** A complete correction of the discovery_piscine of 42 school for children.
