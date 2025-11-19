@@ -46,12 +46,17 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[Ft_ssl_md5](https://github.com/hlefevregit/ft_ssl_md5):** An algo to reporduce the hashes from md5 and sha256 (it will have more encryption algos in the same repo in coming). [100%]
 - **[Ft_ssl_des](https://github.com/hlefevregit/ft_ssl_md5):** An algo to reporduce enconding of base64 + encrytption with ECB and CBC (it will still have more encryption algos in the same repo in coming). [100%]
 - **[Cloud-1](https://github.com/hlefevregit/cloud-1):** Remake the project [Inception](https://github.com/hlefevregit/Inception), but on a VPS. Made with [Héliam](https://github.com/fZpHr) [100%]
+- **[tinky-winkey](https://github.com/hlefevregit/tinky-winkey):** A keylogger running in a service on windows (for educationnal purpose only). Made with [Maxime](https://github.com/KappaIsBetter). [100%]
+- **[libftpp](https://github.com/hlefevregit/libftpp):** A complete librairy for useful classes in c++11. [On-going]
+- **[Matt_daemon](https://github.com/hlefevregit/Matt-daemon):** A daemonzied server with encrypted communication and a graphic client. Made with [Natasha](https://github.com/NatsCM). [On-going]
+
 
 ## Personnal projects
 - **[Piscine Discovery - Web](https://github.com/hlefevregit/piscine_discovery/tree/main/web):** A complete correction of the discovery_piscine of 42 school for children.
 - **[Piscine Discovery - Python](https://github.com/hlefevregit/piscine_discovery/tree/main/python):** A part-complete correction of the discovery_piscine of 42 school for children.
 - **[Piscine Discovery - Cyber](https://github.com/hlefevregit/piscine_discovery/tree/main/cybersec_discovery):** A complete correction of the discovery_piscine of 42 school for newbies, made by 42Barcelona
 - **[Piscine Discovery - Init](https://github.com/hlefevregit/piscine_discovery/tree/main/init):** A part-complete correction of the discovery_piscine of 42 school for newbies with sys/network. Made by slash16 (no longer available)
+- **[42 x EDHEC](https://github.com/hlefevregit/edhecx42-application-mobil):** A project made with EDHEC student that aim to create a POC for a company. An application with a virtual fridge + community hub about receipes diet-complient. [1st place for the public price]
 
 [![](https://visitcount.itsvg.in/api?id=hlefevregit&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
