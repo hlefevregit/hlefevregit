@@ -15,6 +15,13 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 
 ## 📈 Github Stats
 
+<div>
+	<img align="center" alt="My Github Stats" src="https://vercel-fzphrs-projects.vercel.app/api?username=hlefevregit&count_private=true&show_icons=true&hide_border=true&theme=nightowl" />
+	<img align="center" alt="My Top languages used" src="https://vercel-fzphrs-projects.vercel.app/api/top-langs/?username=hlefevregit&hide_border=true&theme=nightowl" />
+	
+</div>
+
+<br clear="left"/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=hlefevregit&theme=darkhub&margin-w=15&margin-h=15" alt="html logo"/>
 
