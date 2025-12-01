@@ -10,6 +10,18 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 	<img src="https://github.com/flmarsou/flmarsou/blob/main/assets/icons/cpp.svg" alt="cpp logo" width="50" height="50"/>
   	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/html-5-logo-svgrepo-com.svg" alt="html logo" width="50" height="50"/>
   	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/css.svg" alt="html logo" width="50" height="50"/>
+	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/5f2ba11e378c8f49e8b28486_argo.png" alt="html logo" width="50" height="50"/>
+	<!-- <img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/ansible.webp" alt="html logo" width="100" height="100"/> -->
+	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/assembly.svg" alt="html logo" width="50" height="50"/>
+	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/icons8-docker-240.png" alt="html logo" width="50" height="50"/>
+	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/icons8-kubernetes-240.png" alt="html logo" width="50" height="50"/>
+	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/icons8-react-240.png" alt="html logo" width="50" height="50"/>
+	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/icons8-nodejs-240.png" alt="html logo" width="50" height="50"/>
+	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/icons8-typescript-240.png" alt="html logo" width="50" height="50"/>
+	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/python_logo_icon_168886.png" alt="html logo" width="50" height="50"/>
+	<img src="https://github.com/hlefevregit/hlefevregit/blob/main/assets/qemu_logo_icon_169821.png" alt="html logo" width="50" height="50"/>
+	
+	
 </div>
 
 
