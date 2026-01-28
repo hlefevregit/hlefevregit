@@ -35,7 +35,7 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 
 <br clear="left"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=hlefevregit&theme=darkhub&margin-w=15&margin-h=15" alt="html logo"/>
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=hlefevregit&theme=darkhub&margin-w=15&margin-h=15" alt="html logo"/> -->
 
 ## 🔭 42 Common-Core
 - **[Libft](https://github.com/hlefevregit/libft_gnl):** A library of useful functions for later projects. [125%]
@@ -49,7 +49,7 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[CPP_Modules](https://github.com/hlefevregit/CPP_Modules):** A project regrouping multiple exercices to learn CPP. [100%]
 - **[NetPractice](https://github.com/hlefevregit/NetPractice):** NetPractice aim to discover network for concrete cases. [100%]
 - **[cub3d](https://github.com/hlefevregit/cub3d):** An inspired FPS done with raycasting to simulate a 3d environment. Made with [David](https://github.com/kintox01) [125%]
-- **[ft_irc](https://github.com/hlefevregit/ft_irc):** Recreate a simple IRC (Internet Relay Chat) server in C++. Made with [Louis](https://github.com/MazeWave) [125%]
+- **[ft_irc](https://github.com/hlefevregit/ft_irc):** Recreate a simple IRC (Internet Relay Chat) server in C++. Made with [Louis](https://github.com/MazeWave) [125% (graded as outstanding)]
 - **[Inception](https://github.com/hlefevregit/Inception):** A project to learn about Dockerfile and docker-compose. Where we set up a container with nginx, mariadb, wordpress, and bonuses. [125%]
 - **[Ft_transcendence](https://github.com/hlefevregit/ft_transcendence):** Final project of the Common Core. This projects aims to create a website from scratch, to play tha famouse pong game online. Many features are add in this project, if you want to learn more about this project, please read the [ReadMe] of the repo. Made with [Louis](https://github.com/MazeWave), [Léo](https://github.com/LeoPolizzi) and [Evan](https://github.com/Thhundder) [125%]
 
@@ -63,7 +63,11 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[Cloud-1](https://github.com/hlefevregit/cloud-1):** Remake the project [Inception](https://github.com/hlefevregit/Inception), but on a VPS. Made with [Héliam](https://github.com/fZpHr) [100%]
 - **[tinky-winkey](https://github.com/hlefevregit/tinky-winkey):** A keylogger running in a service on windows (for educationnal purpose only). Made with [Maxime](https://github.com/KappaIsBetter). [100%]
 - **[libftpp](https://github.com/hlefevregit/libftpp):** A complete librairy for useful classes in c++11. [On-going]
-- **[Matt_daemon](https://github.com/hlefevregit/Matt-daemon):** A daemonzied server with encrypted communication and a graphic client. Made with [Natasha](https://github.com/NatsCM). [On-going]
+- **[Matt_daemon](https://github.com/hlefevregit/Matt-daemon):** A daemonzied server with encrypted communication and a graphic client. Made with [Natasha](https://github.com/NatsCM). [125% (graded as outstanding)]
+- **[avaj-launcher](https://github.com/hlefevregit/java-trilogy/tree/main/avaj-launcher):** First project of the java's trilogy. Create a simple simulator of flying objects comportement depending of the weather. [100%]
+- **[swingy](https://github.com/hlefevregit/swingy):** Second project of the java's trilogy. A text-based RPG with a terminal and a graphical client. [125% (graded as outstanding)]
+- **[woody-woodpacker](https://github.com/hlefevregit/woody-woodpacker):** First project of the virus branch. It aims to copy a given ELF64 and adding a stub with compression and decompression in it. [Waiting for evaluation]
+- **[Famine](https://github.com/hlefevregit/Famine):** Second project of the virus branch and first of the Four horsemen of Apocalypse. It aims to inject a signature that is polymorpphic on given giles. [Waiting for evaluation]
 
 
 ## Personnal projects
