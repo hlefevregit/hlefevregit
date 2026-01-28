@@ -56,7 +56,7 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 ## 🔭 42 POST Common-Core
 - **[Libasm](https://github.com/hlefevregit/libasm):** A small librairy to learn how assembly works. [125%]
 - **[Ft_malcolm](https://github.com/hlefevregit/ft_malcolm):** A simplified Man-In-The-Middle code to spoof arp tables. [100%]
-- **[Inception Of Things](https://github.com/hlefevregit/IoT):** A project to learn about Kubernetes (k8s, k3s and k3s), CI-CD with argo-CD on Github and Gitlab  [125%]
+- **[Inception Of Things](https://github.com/hlefevregit/IoT):** A project to learn about Kubernetes (k8s, k3s and k3s), CI-CD with argo-CD on Github and Gitlab. Made with [Maxime](https://github.com/KappaIsBetter) [125%]
 - **[Ft_ping](https://github.com/hlefevregit/ft_ping):** Reproduce the ping function with some flags. [125%]
 - **[Ft_ssl_md5](https://github.com/hlefevregit/ft_ssl_md5):** An algo to reporduce the hashes from md5 and sha256 (it will have more encryption algos in the same repo in coming). [100%]
 - **[Ft_ssl_des](https://github.com/hlefevregit/ft_ssl_md5):** An algo to reporduce enconding of base64 + encrytption with ECB and CBC (it will still have more encryption algos in the same repo in coming). [100%]
