@@ -62,12 +62,12 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[Ft_ssl_des](https://github.com/hlefevregit/ft_ssl_md5):** An algo to reporduce enconding of base64 + encrytption with ECB and CBC (it will still have more encryption algos in the same repo in coming). [100%]
 - **[Cloud-1](https://github.com/hlefevregit/cloud-1):** Remake the project [Inception](https://github.com/hlefevregit/Inception), but on a VPS. Made with [Héliam](https://github.com/fZpHr) [100%]
 - **[tinky-winkey](https://github.com/hlefevregit/tinky-winkey):** A keylogger running in a service on windows (for educationnal purpose only). Made with [Maxime](https://github.com/KappaIsBetter). [100%]
-- **[libftpp](https://github.com/hlefevregit/libftpp):** A complete librairy for useful classes in c++11. [On-going]
-- **[Matt_daemon](https://github.com/hlefevregit/Matt-daemon):** A daemonzied server with encrypted communication and a graphic client. Made with [Natasha](https://github.com/NatsCM). [125% (graded as outstanding)]
+- **[libftpp](https://github.com/hlefevregit/libftpp):** A complete librairy for useful classes in C++11. [On-going]
+- **[Matt_daemon](https://github.com/hlefevregit/Matt-daemon):** A daemonzied server in C++11 with encrypted communication and a graphic client. Made with [Natasha](https://github.com/NatsCM). [125% (graded as outstanding)]
 - **[avaj-launcher](https://github.com/hlefevregit/java-trilogy/tree/main/avaj-launcher):** First project of the java's trilogy. Create a simple simulator of flying objects comportement depending of the weather. [100%]
 - **[swingy](https://github.com/hlefevregit/swingy):** Second project of the java's trilogy. A text-based RPG with a terminal and a graphical client. [125% (graded as outstanding)]
-- **[woody-woodpacker](https://github.com/hlefevregit/woody-woodpacker):** First project of the virus branch. It aims to copy a given ELF64 and adding a stub with compression and decompression in it. [Waiting for evaluation]
-- **[Famine](https://github.com/hlefevregit/Famine):** Second project of the virus branch and first of the Four horsemen of Apocalypse. It aims to inject a signature that is polymorpphic on given giles. [Waiting for evaluation]
+- **[woody-woodpacker](https://github.com/hlefevregit/woody-woodpacker):** First project of the virus branch. It aims to copy a given ELF64 and adding a stub with compression and decompression in it. (C & Assembly [Waiting for evaluation]
+- **[Famine](https://github.com/hlefevregit/Famine):** Second project of the virus branch and first of the Four horsemen of Apocalypse. It aims to inject a signature that is polymorpphic on given files. (Full Assembly) [Waiting for evaluation]
 
 
 ## Personnal projects
