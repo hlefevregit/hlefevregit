@@ -68,6 +68,8 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[swingy](https://github.com/hlefevregit/swingy):** Second project of the java's trilogy. A text-based RPG with a terminal and a graphical client. [125% (graded as outstanding)]
 - **[woody-woodpacker](https://github.com/hlefevregit/woody-woodpacker):** First project of the virus branch. It aims to copy a given ELF64 and adding a stub with compression and decompression in it. (C & Assembly [Waiting for evaluation]
 - **[Famine](https://github.com/hlefevregit/Famine):** Second project of the virus branch and first of the Four horsemen of Apocalypse. It aims to inject a signature that is polymorpphic on given files. (Full Assembly) [Waiting for evaluation]
+- **[snow-crash](https://github.com/hlefevregit/snow-crash):** First project of the CTF Trilogy of 42 School. No particular focus. Made with [Camille](https://github.com/K1000e) [125%]
+- **[rainfall](https://github.com/hlefevregit/rainfall):** Second project of the CTF Trilogy of 42 School. Focus on Buffer Overflow and String Vulnerability. Reverse + PWN. Made with [Camille](https://github.com/K1000e) [125%]
 
 
 ## Personnal projects
