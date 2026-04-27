@@ -70,6 +70,8 @@ Don't forget to give my [repositories](https://github.com/hlefevregit?tab=reposi
 - **[Famine](https://github.com/hlefevregit/Famine):** Second project of the virus branch and first of the Four horsemen of Apocalypse. It aims to inject a signature that is polymorpphic on given files. (Full Assembly) [Waiting for evaluation]
 - **[snow-crash](https://github.com/hlefevregit/snow-crash):** First project of the CTF Trilogy of 42 School. No particular focus. Made with [Camille](https://github.com/K1000e) [125%]
 - **[rainfall](https://github.com/hlefevregit/rainfall):** Second project of the CTF Trilogy of 42 School. Focus on Buffer Overflow and String Vulnerability. Reverse + PWN. Made with [Camille](https://github.com/K1000e) [125%]
+- **[nm](https://github.com/hlefevregit/ft_nm):** Reproduce the nm function with some flags. [125%]
+- **[ft_ality](https://github.com/hlefevregit/ft_ality):** Project to learn how funcitonal programming works, and create a finite-state automaton. Made with [Léo](https://github.com/LeoPolizzi) [On-going]
 
 
 ## Personnal projects
