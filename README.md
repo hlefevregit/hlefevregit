@@ -18,6 +18,11 @@ From bare-metal C to Kubernetes clusters. From ELF internals to TLS handshakes.
 
 [![](https://visitcount.itsvg.in/api?id=hlefevregit&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
+<div align="center">
+  <img src="./assets/497e704f373bc54bd7611e68287432f1.jpg" width="680" alt="Le Bassin aux Nymphéas — Claude Monet, 1899"/>
+</div>
+  <sub><i>Le Bassin aux Nymphéas — Claude Monet, 1899</i></sub>
+
 </div>
 
 ---
