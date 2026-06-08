@@ -13,7 +13,7 @@
 
 **Full-Stack Engineer · Security Researcher · 42 Nice**
 
-Apprentice @ [SolidShield](https://solidshield.io) — Building secure systems, breaking them apart, understanding why.  
+Apprentice @ [SolidShield](https://www.solidshield.com/) — Building secure systems, breaking them apart, understanding why.  
 From bare-metal C to Kubernetes clusters. From ELF internals to TLS handshakes.
 
 [![](https://visitcount.itsvg.in/api?id=hlefevregit&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
