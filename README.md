@@ -72,6 +72,7 @@ From bare-metal C to Kubernetes clusters. From ELF internals to TLS handshakes.
 |---|---|---|
 | [snow-crash](https://github.com/hlefevregit/snow-crash) | CTF trilogy #1 — multi-domain challenges (web, binary, network). w/ [Camille](https://github.com/K1000e) | `125%` |
 | [rainfall](https://github.com/hlefevregit/rainfall) | CTF trilogy #2 — Buffer overflows & format string exploits. Reverse + PWN. w/ [Camille](https://github.com/K1000e) | `125%` |
+| [override](https://github.com/K1000e/OverRide) | CTF trilogy #3 — Buffer overflows & format string exploits. Reverse + PWN. w/ [Camille](https://github.com/K1000e) | `125%` |
 | [woody-woodpacker](https://github.com/hlefevregit/woody-woodpacker) | Virus branch #1 — ELF64 packer with compression stub in C & ASM | `pending` |
 | [Famine](https://github.com/hlefevregit/Famine) | Virus branch #2 — Polymorphic signature injector. Full Assembly | `pending` |
 | [ft_malcolm](https://github.com/hlefevregit/ft_malcolm) | Simplified ARP spoofing / MITM in C | `100%` |
@@ -89,6 +90,7 @@ From bare-metal C to Kubernetes clusters. From ELF internals to TLS handshakes.
 | [ft_malloc](https://github.com/hlefevregit/ft_malloc) | `malloc()`, `realloc()`, `free()` reimplemented | `100%` |
 | [ft_nm](https://github.com/hlefevregit/ft_nm) | ELF symbol table reader — `nm` reimplementation | `125%` |
 | [ft_ping](https://github.com/hlefevregit/ft_ping) | `ping` reimplementation with flags | `125%` |
+| [ft_traceroute](https://github.com/hlefevregit/ft_traceroute) | `traceroute` reimplementation with flags | `125%` |
 | [Libasm](https://github.com/hlefevregit/libasm) | Standard libc functions reimplemented in x86-64 ASM | `125%` |
 | [Matt_daemon](https://github.com/hlefevregit/Matt-daemon) | C++11 daemonized server with encrypted comms + GUI client. w/ [Natasha](https://github.com/NatsCM) | `125% ⭐` |
 | [Philosophers](https://github.com/hlefevregit/philo) | Dining philosophers — threads & mutex | `100%` |
@@ -116,6 +118,15 @@ From bare-metal C to Kubernetes clusters. From ELF internals to TLS handshakes.
 | [swingy](https://github.com/hlefevregit/swingy) | Java RPG with terminal & Swing GUI clients | `125% ⭐` |
 | [avaj-launcher](https://github.com/hlefevregit/java-trilogy/tree/main/avaj-launcher) | Java flying objects simulator — design patterns | `100%` |
 | [ft_ality](https://github.com/hlefevregit/ft_ality) | Finite-state automaton + functional programming intro. w/ [Léo](https://github.com/LeoPolizzi) | `120%` |
+
+---
+
+### 🔵 Machine Learning
+
+| Project | Description | Score |
+|---|---|---|
+| [multilayer-perceptron](https://github.com/hlefevregit/-multilayer-perceptron-) | From-scratch MLP (forward/backprop, 5 optimizers, early stopping) for breast cancer diagnosis | `125%` |
+| [ft_linear_regression](https://github.com/hlefevregit/ft_linear_regression) | Linear regression from scratch w/ gradient descent — car price prediction | `110%` |
 
 ---
 
