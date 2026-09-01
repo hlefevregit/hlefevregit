@@ -13,7 +13,7 @@
 
 **Full-Stack Engineer · Security Researcher · 42 Nice**
 
-Apprentice @ [SolidShield](https://www.solidshield.com/) — Building secure systems, breaking them apart, understanding why.  
+Apprentice @ [SolidShield](https://www.solidshield.com/) - Building secure systems, breaking them apart, understanding why.  
 From bare-metal C to Kubernetes clusters. From ELF internals to TLS handshakes.
 
 [![](https://visitcount.itsvg.in/api?id=hlefevregit&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
@@ -95,6 +95,7 @@ From bare-metal C to Kubernetes clusters. From ELF internals to TLS handshakes.
 | [Matt_daemon](https://github.com/hlefevregit/Matt-daemon) | C++11 daemonized server with encrypted comms + GUI client. w/ [Natasha](https://github.com/NatsCM) | `125% ⭐` |
 | [Philosophers](https://github.com/hlefevregit/philo) | Dining philosophers — threads & mutex | `100%` |
 | [libftpp](https://github.com/hlefevregit/libftpp) | C++11 utility library (on-going) | `🚧` |
+| [Ready-Set-Boole](https://github.com/hlefevregit/ready-set-boole-) | My first project in rust, where you have to recreate some maths using only binary operators | `🚧` |
 
 ---
 
